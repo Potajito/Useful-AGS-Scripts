@@ -1,1 +1,1 @@
-# Useful-AGS-Sripts
+# Useful-AGS-Scripts
